@@ -21,13 +21,11 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Documentation, Reports & Presentation artifacts (as per user directive)
+# Documentation, Reports (as per user directive)
 *.pdf
 *.docx
-*.pptx
 *.mysql-notebook
 Vehicle_Service_System_Documentation*
-PBL_Project_Poster_Template*
 
 # OS / Editor metadata
 .DS_Store
